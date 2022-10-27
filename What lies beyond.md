@@ -8,12 +8,12 @@ Look for the hints and clues in the source of the website to find the flag.
 
 ## Sources
 
-- [Galaxies](https://swati-verma671.github.io/what-lies-beyond/)
+- [Galaxies](https://swati-verma671.github.io/WhatLiesBeyond/)
 
 ```
 
 The creator of this website left a really important information here. Can you look for it?
-https://swati-verma671.github.io/what-lies-beyond/
+https://swati-verma671.github.io/WhatLiesBeyond/
 ```
 
 ## Exploit
