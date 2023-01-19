@@ -1,0 +1,16 @@
+S.No.,Paragraph
+,"Main uses of web-scraping include: price monitoring, price intelligence, news monitoring, lead generation as well as market research."
+,"2.> Legitimate bots abide a site's robots.txt file, malicious bots do not."
+,"Botnets are large network of bots that are instructed by the attacker to perform DDos, API abuse, phishing scams, spam emails, ransomware, click fraud and more. The devices performing botnet are devices affected by malware attacks."
+,"The Robots.txt of any site serve as a warning similar to ""No Trespassers"". However, more advanced malicious bots can easily bypass this file."
+,"We can do this either manually or using a web crawler(also referred to as a ""spider""). Web crawler does the job of fetching a web page for web scraping.
+        After fetching the web page we can extract the required information from it."
+,"Search engines scrape web-pages of websites all the time -we call this ""spidering the web"" or ""web crawling""."
+,Botnets are large network of bots
+,"1.> Keeping close watch on accounts with high level of activity and no purchases.
+        2.> Detecting abnormally high-views on a product (can be a sign of non-human activity.)
+        3.> Employing bots protection systems with AI that helps detect bad bots and prevent web scraping."
+,(After fetching the web page we can extract the required information from it. 
+,wtfCTF{2_h4rd_2_s33}
+,CTF{not_flag_:(} Manually searching for the flag is useless.
+,Search engines scrape web-pages of websites all the time -we call
