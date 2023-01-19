@@ -1,2 +1,2 @@
 # CTF-Questions
-Here lies all the questions I made for manipal CTF conducted by Turing during TechTatva '22.
+Here lies all the questions I made for manipal CTF and wtfCTF.
